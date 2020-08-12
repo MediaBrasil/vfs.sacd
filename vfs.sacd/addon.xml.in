@@ -25,6 +25,7 @@ The SACD format offers more audio channels (e.g. surround sound), a higher bit r
     <platform>@PLATFORM@</platform>
     <license>GPL-2.0-or-later</license>
     <source>https://github.com/xbmc/vfs.sacd</source>
+    <broken>Deprecated and replaced by audiodecoder.sacd addon!</broken>
     <assets>
       <icon>icon.png</icon>
     </assets>
